@@ -1,0 +1,60 @@
+[{
+    "_id": {
+      "$oid": "65e430914a6b51902d39cd34"
+    },
+    "vehicleName": "Sajha Yatayat",
+    "from": "Lalitpur",
+    "to": "Sundhara",
+    "activation": true,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65e462a073f59193f6580414"
+    },
+    "vehicleName": "Nepal Yatayat",
+    "from": "Lalitpur",
+    "to": "Sundhara",
+    "activation": true,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65e467bf9d83785ec71ce662"
+    },
+    "vehicleName": "Digo Yatayat",
+    "from": "Gongobu",
+    "to": "Sundhara",
+    "activation": true,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65e46885e33812c3e2007430"
+    },
+    "vehicleName": "test",
+    "from": "testFrom",
+    "to": "testTo",
+    "activation": true,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65e468cb65109b9f5e12144a"
+    },
+    "vehicleName": "test",
+    "from": "testFrom",
+    "to": "testTo",
+    "activation": false,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65e47fd71207d5a5f8a995bb"
+    },
+    "vehicleName": "New service",
+    "from": "Minbhawan",
+    "to": "Sundhara",
+    "activation": true,
+    "__v": 0
+  }]
